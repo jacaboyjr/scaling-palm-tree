@@ -1,0 +1,3 @@
+Documento com um frase somente para iniciar o GIT pela
+primeira vez no curso da RocketSeat
+
